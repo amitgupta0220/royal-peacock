@@ -1,0 +1,31 @@
+:root{
+  /* Brand palette */
+  --rp-blue: #121D7E;
+  --rp-blue-deep: #0B1146;
+  --rp-gold: #DBBE6F;
+  --rp-white: #FFFFFF;
+
+  /* Neutrals */
+  --rp-ink: #0B0F1A;
+  --rp-muted: rgba(255,255,255,0.72);
+  --rp-border: rgba(219,190,111,0.22);
+
+  /* Layout */
+  --container: 1120px;
+  --radius: 18px;
+  --shadow: 0 20px 60px rgba(0,0,0,0.28);
+  --shadow-soft: 0 14px 40px rgba(0,0,0,0.20);
+
+  --space-1: 8px;
+  --space-2: 12px;
+  --space-3: 16px;
+  --space-4: 20px;
+  --space-5: 28px;
+  --space-6: 40px;
+  --space-7: 60px;
+  --space-8: 84px;
+
+  /* Typography */
+  --font-body: "Inter", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  --font-heading: "Cinzel", ui-serif, Georgia, serif;
+}
