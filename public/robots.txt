@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amitgupta0220.github.io/royal-peacock/sitemap.xml

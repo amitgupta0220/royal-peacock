@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  color-scheme: light;
+}
+
+html, body {
+  height: 100%;
+}
+
+body{
+  @apply bg-cloud text-ink antialiased;
+}
+
+::selection{
+  background: rgba(220,185,108,0.35);
+}
+
+.container{
+  @apply mx-auto w-full max-w-6xl px-5;
+}
+
+.section{
+  @apply py-16 sm:py-20;
+}
+
+/* Smooth anchor offsets for sticky navbar */
+:target{
+  scroll-margin-top: 96px;
+}
