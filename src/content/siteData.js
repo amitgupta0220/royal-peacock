@@ -1,7 +1,7 @@
 export const site = {
   name: "Royal Peacock Painting Co",
-  phoneDisplay: "(682) 376-1817",
-  phoneTel: "+16823761817",
+  phoneDisplay: "+1 (214) 228‑8708",
+  phoneTel: "+12142288708",
   emailInfo: "info@royalpeacockpainting.com",
   emailEstimate: "estimate@royalpeacockpainting.com",
   serviceAreaShort: "Dallas, Fort Worth, Arlington and nearby areas",

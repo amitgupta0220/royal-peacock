@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container py-12">
         <div className="grid gap-10 md:grid-cols-3">
           <div>
-            <img src="/logo-dark.svg" alt={site.name} className="h-10 w-auto" />
+            <img src="/logo.png" alt={site.name} className="h-16 w-auto" />
             <p className="mt-3 text-sm text-ink/60 font-sans">
               Premium interior and exterior painting across Dallas-Fort Worth and nearby areas.
             </p>

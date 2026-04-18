@@ -112,7 +112,7 @@ export default function Hero() {
             >
               <div className="ml-auto max-w-lg rounded-xl2 border border-white/40 bg-white/35 backdrop-blur p-6 shadow-soft">
                 <div className="flex items-center gap-3">
-                  <img src="/logo-dark.svg" alt={site.name} className="h-10 w-auto" />
+                  <img src="/logo.png" alt={site.name} className="h-16 w-auto" />
                   <div>
                     <div className="font-serif text-xl text-ink">{site.name}</div>
                     <div className="text-sm text-ink/60 font-sans">Premium painting in the Greater DFW Area</div>

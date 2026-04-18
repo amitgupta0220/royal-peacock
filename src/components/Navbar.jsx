@@ -15,7 +15,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-cloud/80 backdrop-blur border-b border-black/5">
       <div className="container h-20 flex items-center justify-between gap-4">
         <a href="#" className="flex items-center gap-3">
-          <img src="/logo-dark.svg" alt={site.name} className="h-10 w-auto" />
+          <img src="/logo.png" alt={site.name} className="h-20 w-auto" />
         </a>
 
         <nav className="hidden md:flex items-center gap-7 text-sm font-semibold text-ink/80">

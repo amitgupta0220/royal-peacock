@@ -24,7 +24,7 @@ export default function EstimateMarquee() {
 
       {/* subtle moving divider like a slider section */}
       <div className="mt-8 whitespace-nowrap opacity-60 select-none">
-        <div className="inline-flex animate-[marquee_18s_linear_infinite] gap-10 px-5 text-xs tracking-[0.22em] text-ink/50 font-sans">
+        <div className="inline-flex animate-[marquee_35s_linear_infinite] gap-10 px-5 text-xs tracking-[0.22em] text-ink/50 font-sans">
           {Array.from({ length: 18 }).map((_, i) => (
             <span key={i}>FREE ESTIMATE · PREMIUM PREP · CLEAN FINISH ·</span>
           ))}
