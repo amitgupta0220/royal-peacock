@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://royalpeacockpainting.com/sitemap.xml
+Sitemap: https://amitgupta0220.github.io/royal-peacock/sitemap.xml
